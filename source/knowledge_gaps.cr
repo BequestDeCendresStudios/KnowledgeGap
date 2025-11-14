@@ -159,4 +159,4 @@ analyze_sabofensu(is_house_deceptive?("my house",         deux_chemix_ascenseur(
                   is_house_deceptive?("firemans house",   deux_chemix_ascenseur("candles", "escelator entrance", "second floor item drop")),
                   is_house_deceptive?("simpsons house",   deux_chemix_ascenseur("candles", "escelator entrance", "second floor item drop")),
                   is_house_deceptive?("dragons house",    deux_chemix_ascenseur("candles", "escelator entrance", "second floor item drop")),
-is_house_deceptive?("hamburgers house", deux_chemix_ascenseur("candles", "escelator entrance", "second floor item drop")))
+                  is_house_deceptive?("hamburgers house", deux_chemix_ascenseur("candles", "escelator entrance", "second floor item drop")))
