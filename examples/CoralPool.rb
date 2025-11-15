@@ -1,6 +1,4 @@
-require_relative "Maisettequery.rb"
 require_relative "Maisettelog.rb"
-require_relative "Maisettevague.rb"
 
 module CoralPool
   class IsolatedCoral
@@ -86,9 +84,23 @@ module CoralPool
       b = [ "friends house",    "vegetables",        "escelator entrance", "second floor item drop" ]
       c = [ "sisters house",    "shoes",             "escelator entrance", "second floor item drop" ]
       
-      show_decption(is_house_deceptive?(a[0], deux_chemix_ascenseur(a[1], a[2], a[3])),
+      show_deception(is_house_deceptive?(a[0], deux_chemix_ascenseur(a[1], a[2], a[3])),
                     is_house_deceptive?(b[0], deux_chemix_ascenseur(a[1], b[2], b[3])),
                     is_house_deceptive?(c[0], deux_chemix_ascenseur(a[1], c[2], c[3])))
+    end
+    
+    #def self.isolate_features
+      #isolate_feature("There are no doors on this building.",
+      #                "There are three gardens on this building.",
+      #                "There are two windows on this building.")
+    #end
+    
+    def self.suspicious_logic
+      require "NeoPathfinding"
+      
+      puts is_house_deceptive?("my house",      deux_chemix_ascenseur(cette("pomme", "rouge"),         "the escelator entrance", "the item drop"))
+      puts is_house_deceptive?("friends house", deux_chemix_ascenseur(maisette("pomme", "vert"),       "the escelator entrance", "the item drop"))
+      puts is_house_deceptive?("sisters house", deux_chemix_ascenseur(sinon("pomme", "rouge", "vert"), "the escelator entrance", "the item drop"))
     end
   end
 end
