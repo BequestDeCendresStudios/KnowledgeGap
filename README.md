@@ -14,3 +14,6 @@ Sabofensu - primarily serves to finalize a lack of knowledge and closer to forge
 Saborakku - primarily serves to allow for a grace period for where shoes / clogs is allowed to find a "different wearer."
 
 In practice this means that saborakku is "wabisabi" for shoes ( which represents knowledge in this system ).
+
+## Future Direction
+I'm wanting to build a system that could be called "Mixture Of Meta-Learners", or learning how to learn meta-rules.
