@@ -39,3 +39,15 @@ input_vector = [
 first_trivia  = input_vector[0][0][0], input_vector[0][0][1], input_vector[0][0][2]
 second_trivia = input_vector[0][1][0], input_vector[0][1][1], input_vector[0][1][2]
 third_triviva = input_vector[0][2][0], input_vector[0][2][1], input_vector[0][2][2]
+
+tree_input1   =  first_trivia[2]
+tree_input2   = second_trivia[2]
+third_triviva = third_triviva[2]
+
+#attributes = ["First Trivia"], ["Second Trivia"], ["Third Trivia"]
+
+#training = [
+#  [0.8712000000000001, ""],
+#], [
+#], [  
+#]
