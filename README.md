@@ -1,6 +1,9 @@
 # KnowledgeGap
 This repository is for studying the way the mind represses memories and explores its own inner thought process.
 
+## Narrative Context
+My research focuses on Neurosymbolic AI and Metalearning to model the subconscious mind's structure—specifically, how it resolves contradictions and represses trauma. This AI methodology is directly informed by the world-building of my dreampunk novel/webcomic, set in a post-civil-war North America defined by the cultural and linguistic fusion of French and Japanese territories. My system uses concepts like Sabofensu and Saborakku to scientifically model the psychological coping mechanisms required to manage such profound, historical trauma.
+
 ## My AI System
 My project is built on Neurosymbolic AI using Metalearning between a committee of experts. Neuro-Symbolic AI are known for reducing the hallucinations that Neural Networks are prone to.
 
