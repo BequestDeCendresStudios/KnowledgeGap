@@ -2,11 +2,40 @@
 This repository is for studying the way the mind represses memories and explores its own inner thought process.
 
 ## Documentation
+### Artificial Assymetric Intelligence
+Artificial intelligence systems that leverage the power disperaity between LLMs and Smaller Models by presenting themselves as non artificial intelligence.
+
 [Artificial Assymetric Intelligence](https://bequestdecendresstudios.github.io/Documentation/posts/2025-10-05-artificialassymetricintelligence/)<br />
+
+### Psyop Detection Algorithms
+These algorithms detect when disinformation an influence operations are used, although dolls are a placeholder.
+
+[Conspiracy Filter](https://github.com/BequestDeCendresStudios/KnowledgeGap/blob/main/examples/ConspiracyFilter.rb)
+
 [Psyop Detection](https://bequestdecendresstudios.github.io/Documentation/posts/2025-10-05-PsyopDetection/)<br />
+
+### Decentralized Nervous System
 [Decentralized Nervous System](https://bequestdecendresstudios.github.io/Documentation/posts/2025-10-06-distributenervoussystem_and_dynamicrewardallocation/)<br />
+
+### Dynamic Reward Allocation
+This involves autonomously allocating different ratios of reward functions in an unsupervised manner.
+
+[Dynamic Reward Allocation](https://bequestdecendresstudios.github.io/Documentation/posts/2025-11-21-dynamic_reward_alocation/)
+
+### Shortest Path Between Analytics
+You can thing of this path as different "Call And Responce" or different hubs for different information.
+
 [Shortest Path Between Analytics](https://bequestdecendresstudios.github.io/Documentation/posts/2025-10-06-shortestpathbetweenstatistics/)<br />
+
+### Expand On Reverse Least Priviledge
+Reverse Least Priviledge works by maximizing how many hoops a test subject must go through in order to send information to authorized personel.
+
 [Expanding On Containerization](https://bequestdecendresstudios.github.io/Documentation/posts/2025-10-18-expanding_on_containerization/)<br />
+
+#### See Also
+[Coral Pool](https://github.com/BequestDeCendresStudios/KnowledgeGap/blob/main/examples/CoralPool.rb)
+[Mineshaff Tours](https://github.com/BequestDeCendresStudios/KnowledgeGap/blob/main/examples/CoralPool.rb)
+[Tutorial Assistant For Games](https://github.com/BequestDeCendresStudios/KnowledgeGap/blob/main/examples/TutorialAssistant.rb)
 
 ## Narrative Context
 My research focuses on Neurosymbolic AI and Metalearning to model the subconscious mind's structure—specifically, how it resolves contradictions and represses trauma. This AI methodology is directly informed by the world-building of my dreampunk novel/webcomic, set in a post-civil-war North America defined by the cultural and linguistic fusion of French and Japanese territories. My system uses concepts like Sabofensu and Saborakku to scientifically model the psychological coping mechanisms required to manage such profound, historical trauma.
