@@ -24,6 +24,7 @@ This involves autonomously allocating different ratios of reward functions in an
 
 ### Results Of Study
 [Structured Data](https://github.com/BequestDeCendresStudios/KnowledgeGap/blob/main/examples/structured_data.rb)
+[Evaluating Percentages](https://github.com/BequestDeCendresStudios/KnowledgeGap/blob/main/examples/percentages.rb)
 
 ### Shortest Path Between Analytics
 You can thing of this path as different "Call And Responce" or different hubs for different information.
