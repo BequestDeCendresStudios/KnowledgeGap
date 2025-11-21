@@ -1,6 +1,13 @@
 # KnowledgeGap
 This repository is for studying the way the mind represses memories and explores its own inner thought process.
 
+## Documentation
+[Artificial Assymetric Intelligence](https://bequestdecendresstudios.github.io/Documentation/posts/2025-10-05-artificialassymetricintelligence/)
+[Psyop Detection](https://bequestdecendresstudios.github.io/Documentation/posts/2025-10-05-PsyopDetection/)
+[Decentralized Nervous System](https://bequestdecendresstudios.github.io/Documentation/posts/2025-10-06-distributenervoussystem_and_dynamicrewardallocation/)
+[Shortest Path Between Analytics](https://bequestdecendresstudios.github.io/Documentation/posts/2025-10-06-shortestpathbetweenstatistics/)
+[Expanding On Containerization](https://bequestdecendresstudios.github.io/Documentation/posts/2025-10-18-expanding_on_containerization/)
+
 ## Narrative Context
 My research focuses on Neurosymbolic AI and Metalearning to model the subconscious mind's structure—specifically, how it resolves contradictions and represses trauma. This AI methodology is directly informed by the world-building of my dreampunk novel/webcomic, set in a post-civil-war North America defined by the cultural and linguistic fusion of French and Japanese territories. My system uses concepts like Sabofensu and Saborakku to scientifically model the psychological coping mechanisms required to manage such profound, historical trauma.
 
