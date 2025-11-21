@@ -1,5 +1,5 @@
 # KnowledgeGap
-This is slightly different from normal machine learning as its designed to track knowledge gaps.
+This repository is for studying the way the mind represses memories and explores its own inner thought process.
 
 ## My AI System
 My project is built on Neurosymbolic AI using Metalearning between a committee of experts. Neuro-Symbolic AI are known for reducing the hallucinations that Neural Networks are prone to.
@@ -17,3 +17,16 @@ In practice this means that saborakku is "wabisabi" for shoes ( which represents
 
 ## Future Direction
 I'm wanting to build a system that could be called "Mixture Of Meta-Learners", or learning how to learn meta-rules.
+
+### Specific Terminology
+#### Knowledge Gaps
+Used specifically to study repressed memories and blind spots in self-awareness.
+
+### Dream State
+Dream state refers to aspects of the subconscious mind that isn't bound by the same standards of logic.
+
+### Reversing of an Index / Reconstructing a Logical Rule
+This is analogous to how the mind resolves contradictions, integrates new  experience, or performs therapy/re-evaluation of core beliefs.
+
+### Poupee / Dolls
+Dolls here represent the way the mind copes with repressed memories.
