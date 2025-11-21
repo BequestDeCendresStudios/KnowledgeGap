@@ -22,6 +22,9 @@ This involves autonomously allocating different ratios of reward functions in an
 
 [Dynamic Reward Allocation](https://bequestdecendresstudios.github.io/Documentation/posts/2025-11-21-dynamic_reward_alocation/)
 
+### Results Of Study
+[Structured Data](https://github.com/BequestDeCendresStudios/KnowledgeGap/blob/main/examples/structured_data.rb)
+
 ### Shortest Path Between Analytics
 You can thing of this path as different "Call And Responce" or different hubs for different information.
 
