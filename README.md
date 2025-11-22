@@ -7,6 +7,11 @@ Artificial intelligence systems that leverage the power disperaity between LLMs 
 
 [Artificial Assymetric Intelligence](https://bequestdecendresstudios.github.io/Documentation/posts/2025-10-05-artificialassymetricintelligence/)<br />
 
+### Word Creation
+This study is based on how to merge words from dissimilar languages to create a hybrid port manteau. This led to the creation of uncertainty graphs.
+
+[Graviteformee](https://github.com/BequestDeCendresStudios/StatisticsGraviteformee)
+
 ### Psyop Detection Algorithms
 These algorithms detect when disinformation an influence operations are used, although dolls are a placeholder.
 
@@ -40,6 +45,11 @@ Reverse Least Priviledge works by maximizing how many hoops a test subject must 
 [Coral Pool](https://github.com/BequestDeCendresStudios/KnowledgeGap/blob/main/examples/CoralPool.rb)
 [Mineshaff Tours](https://github.com/BequestDeCendresStudios/KnowledgeGap/blob/main/examples/CoralPool.rb)
 [Tutorial Assistant For Games](https://github.com/BequestDeCendresStudios/KnowledgeGap/blob/main/examples/TutorialAssistant.rb)
+
+## Oracles For My Games
+These games are currently experimenting with oracles that function as player assistants:
+
+[Le Oracle De Anos Gurasmitenos](https://github.com/BequestDeCendresStudios/LeOracleAnosGurasmitenos)
 
 ## Narrative Context
 My research focuses on Neurosymbolic AI and Metalearning to model the subconscious mind's structure—specifically, how it resolves contradictions and represses trauma. This AI methodology is directly informed by the world-building of my dreampunk novel/webcomic, set in a post-civil-war North America defined by the cultural and linguistic fusion of French and Japanese territories. My system uses concepts like Sabofensu and Saborakku to scientifically model the psychological coping mechanisms required to manage such profound, historical trauma.
