@@ -5,7 +5,7 @@ poupees = [
     "Moi ne avoir un avis de Est le poupee avoir un seance en cabine victorienne? Cette poupee es victorienne. Mais cette poupee es barbie. Sinon poupee es victorienne ou barbie.",
     0.8712000000000001*0.8712000000000001*0.8712000000000001*0.8712000000000001 ],
 
-  [ :poupee_trois
+  [ :poupee_trois,
     "Moi ne avoir un avis de Est le poupee avoir un seance en cabine victorienne? Cette poupee es victorienne. Mais cette poupee es ne barbie. Sinon poupee es victorienne ou barbie.",   
     0.8712000000000001*0.8712000000000001 ],
 ], [
@@ -25,14 +25,14 @@ poupees = [
 ]
 
 # Booth information
-booth_symbols     = poupees[0][0][0], poupee[0][1][0]
-booth_opinion     = poupees[0][0][1], poupee[0][1][1]
-booth_probability = poupees[0][0][2], poupee[0][1][2]
+booth_symbols     = poupees[0][0][0], poupees[0][1][0]
+booth_opinion     = poupees[0][0][1], poupees[0][1][1]
+booth_probability = poupees[0][0][2], poupees[0][1][2]
 
 # Name information
-name_symbols     = poupees[1][0][0], poupee[1][1][0]
-name_opinion     = poupees[1][0][1], poupee[1][1][1]
-name_probability = poupees[1][0][2], poupee[1][1][2]
+name_symbols     = poupees[1][0][0], poupees[1][1][0]
+name_opinion     = poupees[1][0][1], poupees[1][1][1]
+name_probability = poupees[1][0][2], poupees[1][1][2]
 
 booth_options = [
   [[booth_symbols[0], booth_symbols[0], booth_symbols[0]],
@@ -87,7 +87,7 @@ name_options = [
 ]
 
 row_options = [0, 1, 2]
-col_options = [0, 1, 2]
+col_options = [0, 1]
 arr_options = [0, 1, 2]
 
 cur_row = row_options.sample
@@ -96,3 +96,6 @@ cur_arr = arr_options.sample
 
 current_booth = booth_options[cur_row][cur_col][cur_arr]
 current_name  = name_options[cur_row][cur_col][cur_arr]
+
+puts current_booth
+puts current_name
